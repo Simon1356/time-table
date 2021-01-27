@@ -2,7 +2,7 @@
 
 ## ① 关于
 Simon工具箱时刻表管理系统是由B站Up主Simon1356创建的专门为Simon工具箱生成和管理时刻表模块的工具，系统可以导入/导出或手动新建列车时刻表，导出的JSON配置文件可用于Simon工具箱数据库，并显示成易读的时刻表。
-https://Simon1356.github.io/tiem-table
+https://Simon1356.github.io/time-table
 
 ## ② 使用方法
 - 方法一：直接导入
