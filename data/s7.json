@@ -1,0 +1,260 @@
+{
+    "lineName": "S7线",
+    "pos": 4,
+    "tableShang": [
+        {
+            "depart": [
+                {
+                    "time": "7.30",
+                    "type": "S702次：终点：北京东。各停。",
+                    "isFull": true
+                },
+                {
+                    "time": "9.20",
+                    "type": "S712次：终点：北京朝阳。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "11.28",
+                    "type": "S714次：终点：北京朝阳。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "13.25",
+                    "type": "S716次：终点：北京朝阳。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "15.30",
+                    "type": "S718次：终点：北京朝阳。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "17.30",
+                    "type": "S704次：终点：北京东。各停。",
+                    "isFull": true
+                }
+            ],
+            "stationName": "黄土店"
+        },
+        {
+            "depart": [
+                {
+                    "time": "7.45",
+                    "type": "S702次：终点：北京东。各停。",
+                    "isFull": true
+                },
+                {
+                    "time": "9.35",
+                    "type": "S712次：终点：北京朝阳。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "11.43",
+                    "type": "S714次：终点：北京朝阳。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "13.40",
+                    "type": "S716次：终点：北京朝阳。各停。"
+                },
+                {
+                    "time": "15.45",
+                    "type": "S718次：终点：北京朝阳。各停。"
+                },
+                {
+                    "time": "17.45",
+                    "type": "S704次：终点：北京东。各停。",
+                    "isSub": false,
+                    "isFull": true
+                }
+            ],
+            "stationName": "望京"
+        },
+        {
+            "depart": [
+                {
+                    "time": "7.57",
+                    "type": "S702次：终点：北京东。各停。",
+                    "isFull": true
+                },
+                {
+                    "time": "9.45",
+                    "type": "S712次：终点：北京朝阳。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "11.53",
+                    "type": "S714次：终点：北京朝阳。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "13.50",
+                    "type": "S716次：终点：北京朝阳。各停。"
+                },
+                {
+                    "time": "15.55",
+                    "type": "S718次：终点：北京朝阳。各停。"
+                },
+                {
+                    "time": "17.57",
+                    "type": "S704次：终点：北京东。各停。",
+                    "isSub": false,
+                    "isFull": true
+                }
+            ],
+            "stationName": "朝阳"
+        },
+        {
+            "depart": [
+                {
+                    "time": "8.09",
+                    "type": "S702次：终点：北京东。各停。",
+                    "isSub": false,
+                    "isFull": true
+                },
+                {
+                    "time": "18.09",
+                    "type": "S704次：终点：北京东。各停。",
+                    "isSub": false,
+                    "isFull": true
+                }
+            ],
+            "stationName": "北京东",
+            "full": true
+        }
+    ],
+    "tableXia": [
+        {
+            "depart": [
+                {
+                    "time": "8.25",
+                    "type": "S701次：终点：黄土店。各停。",
+                    "isSub": false,
+                    "isFull": true
+                },
+                {
+                    "time": "18.25",
+                    "type": "S703次：终点：黄土店。各停。",
+                    "isSub": false,
+                    "isFull": true
+                }
+            ],
+            "stationName": "北京东",
+            "full": true
+        },
+        {
+            "depart": [
+                {
+                    "time": "8.39",
+                    "type": "S701次：终点：黄土店。各停。",
+                    "isFull": true
+                },
+                {
+                    "time": "10.20",
+                    "type": "S711次：终点：黄土店。各停。",
+                    "isSub": false
+                },
+                {
+                    "time": "12.45",
+                    "type": "S713次：终点：黄土店。各停。",
+                    "isSub": false
+                },
+                {
+                    "time": "14.50",
+                    "type": "S715次：终点：黄土店。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "16.20",
+                    "type": "S717次：终点：黄土店。各停。",
+                    "isSub": false,
+                    "isFull": false
+                },
+                {
+                    "time": "18.39",
+                    "type": "S703次：终点：黄土店。各停。",
+                    "isFull": true
+                }
+            ],
+            "stationName": "朝阳"
+        },
+        {
+            "depart": [
+                {
+                    "time": "8.51",
+                    "type": "S701次：终点：黄土店。各停。",
+                    "isFull": true
+                },
+                {
+                    "time": "10.32",
+                    "type": "S711次：终点：黄土店。各停。",
+                    "isSub": false
+                },
+                {
+                    "time": "12.57",
+                    "type": "S713次：终点：黄土店。各停。",
+                    "isSub": false
+                },
+                {
+                    "time": "15.02",
+                    "type": "S715次：终点：黄土店。各停。",
+                    "isFull": false
+                },
+                {
+                    "time": "16.32",
+                    "type": "S717次：终点：黄土店。各停。",
+                    "isSub": false,
+                    "isFull": false
+                },
+                {
+                    "time": "18.51",
+                    "type": "S703次：终点：黄土店。各停。",
+                    "isFull": true
+                }
+            ],
+            "stationName": "望京"
+        },
+        {
+            "depart": [
+                {
+                    "time": "9.04",
+                    "type": "S701次：终点：黄土店。各停。",
+                    "isFull": true
+                },
+                {
+                    "time": "10.45",
+                    "type": "S711次：终点：黄土店。各停。",
+                    "isSub": false,
+                    "isFull": false
+                },
+                {
+                    "time": "13.10",
+                    "type": "S713次：终点：黄土店。各停。",
+                    "isSub": false,
+                    "isFull": false
+                },
+                {
+                    "time": "15.15",
+                    "type": "S715次：终点：黄土店。各停。",
+                    "isSub": false,
+                    "isFull": false
+                },
+                {
+                    "time": "16.45",
+                    "type": "S717次：终点：黄土店。各停。",
+                    "isSub": false,
+                    "isFull": false
+                },
+                {
+                    "time": "19.04",
+                    "type": "S703次：终点：黄土店。各停。",
+                    "isSub": false,
+                    "isFull": true
+                }
+            ],
+            "stationName": "黄土店"
+        }
+    ],
+    "updateDate": "2021.01.22 注意：东北环线时刻表暂未官宣，此时刻表仅供参考"
+}
